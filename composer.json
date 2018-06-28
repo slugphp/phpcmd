@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpFastCache/phpFastCache": "^5.0",
+        "phpmailer/phpmailer": "^5.2",
+        "imangazaliev/didom": "^1.8",
+        "illuminate/database": "^5.3",
+        "illuminate/events": "^5.3",
+        "robmorgan/phinx": "^0.6.5",
+        "wilon/simple-debug": "^0.1.3"
+    }
+}
